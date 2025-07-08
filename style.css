@@ -16,14 +16,17 @@ h2 {
         text-align: center;
      
         }
-.gif {
+.gif1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 20%;
 }
 
-#rick-drooling {
-    width: 20%;
+.gif2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a {
