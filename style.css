@@ -43,3 +43,11 @@ div {
     display: block;
     margin: 50px;
 }
+
+div.zart {
+    background-color: antiquewhite;
+    width: 50vh;
+    height: 50vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
